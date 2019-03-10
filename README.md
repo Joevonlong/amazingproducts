@@ -51,7 +51,7 @@
 ### <p align="center"> Flyte Light </p>
 
 ![封面图片](./sources/images/flyte/fff.jpg)
-![封面图片](./sources/images/flyte/ezgif.com-optimize_42_1024x1024.gif)
+<img align="right" src="./sources/images/flyte/ezgif.com-optimize_42_1024x1024.gif"/>
 
 #### 悬浮灯泡
 ##### 灯泡
