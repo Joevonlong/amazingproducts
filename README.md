@@ -49,10 +49,10 @@
 ## <h2 id="producthub"> Product Hub </h2>
 
 ### <p align="center"> Flyte Light </p>
-<p align="center">
-   	![封面图片](./sources/images/flyte/fff.jpg)
-   	![封面图片](./sources/images/flyte/ezgif.com-optimize_42_1024x1024.gif)
-</p>
+
+![封面图片](./sources/images/flyte/fff.jpg)
+![封面图片](./sources/images/flyte/ezgif.com-optimize_42_1024x1024.gif)
+
 #### 悬浮灯泡
 ##### 灯泡
 
