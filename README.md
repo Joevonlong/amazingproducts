@@ -19,6 +19,7 @@
 - [Other Catalogs](#othercatalogs)
 - [应用领域整理](#scene)
 - [Product Hub](#producthub)
+- [Waiting List](#waitinglist)
 
 - [License](#license)
 
@@ -28,8 +29,10 @@
 ### <p align="center"> Product Name </p>
 #### <p align="center"> ![封面图片](Link) </p>
 #### 产品简介
-##### - 用途
-##### - 介绍
+##### 用途
+
+介绍
+
 #### Price: 
 #### [产品官方链接](Link)
 
@@ -45,18 +48,22 @@
 
 ## <h2 id="producthub"> Product Hub </h2>
 
-### <p align="center"> Product Name </p>
-#### <p align="center">![封面图片](./sources/images/flyte/ezgif.com-optimize_42_1024x1024.gif)</p>
-#### 产品简介
-##### - 用途
-##### - 介绍
+### <p align="center"> Flyte Light </p>
+  <p align="center">![封面图片](./sources/images/flyte/fff.jpg)</p>
+  <p align="center">![封面图片](./sources/images/flyte/ezgif.com-optimize_42_1024x1024.gif)</p>
+#### 悬浮灯泡
+##### 灯泡
+
+Flyte的灯具将磁悬浮、无线充电和优秀的产品设计都结合到了一起，科技与设计的结合瞬间提升家居的美感与创意。灯泡会徘徊在其底座上方，提供了一个独特的方式来照亮房间。
+
 #### Price: 
 #### [Link: FlyteStore](https://flytestore.com/)
 
 
 
 
-
+## <h2 id="waitinglist"> Waiting List </h2>
+- CSYS by Jake Dyson Light
 
 
 ## <h2 id="license"> License </h2>
