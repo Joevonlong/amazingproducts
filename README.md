@@ -25,8 +25,8 @@
 
 ## <h2 id="recordformat"> Record Format </h2>
 
-### Product Name
-#### ![封面图片](Link)
+### <p align="center"> Product Name </p>
+#### <p align="center"> ![封面图片](Link) </p>
 #### 产品简介
 ##### - 用途
 ##### - 介绍
@@ -45,8 +45,8 @@
 
 ## <h2 id="producthub"> Product Hub </h2>
 
-### Product Name
-#### ![封面图片](./sources/images/flyte/ezgif.com-optimize_42_1024x1024.gif)
+### <p align="center"> Product Name </p>
+#### <p align="center">![封面图片](./sources/images/flyte/ezgif.com-optimize_42_1024x1024.gif)</p>
 #### 产品简介
 ##### - 用途
 ##### - 介绍
